@@ -1,0 +1,6 @@
+{
+  "name": "LUMINA — Taste the Extraordinary",
+  "description": "Experience the intersection of advanced flavor science and luxurious indulgence. Discover the LUMINA collection of sensory beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
